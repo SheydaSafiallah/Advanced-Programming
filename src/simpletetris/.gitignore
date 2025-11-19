@@ -1,0 +1,13 @@
+# Compiled class files and module output
+out/
+*.class
+
+# Java cache
+*.jar
+*.war
+*.ear
+
+# IDE folders
+.vscode/
+.idea/
+*.iml
